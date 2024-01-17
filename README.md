@@ -1,0 +1,1 @@
+Nextjs Dependencies and modules
